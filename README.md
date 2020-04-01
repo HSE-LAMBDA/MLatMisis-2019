@@ -1,5 +1,7 @@
 # misis-2019
 
+- [Open notebooks at colab](https://colab.research.google.com/github/HSE-LAMBDA/MLatMisis-2019)
+
 **Welcome to the Machine Learning part of the course!**
 
 For the practical part we are going to use Google Colab. In order to be able to use it, please make sure you have a google account.
